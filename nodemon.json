@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_ATLAS_URL": "mongodb://127.0.0.1:27017/angular-blog-app",
+        "MONGO_ATLAS_PW": "",
+        "JWT_KEY": "secret_this_should_be_longer"
+    }
+}
